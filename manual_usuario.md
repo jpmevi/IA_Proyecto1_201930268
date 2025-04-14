@@ -103,12 +103,16 @@ python3 main.py
 ---
 
 ## 6. Navegando por la interfaz
+![image](https://github.com/user-attachments/assets/9dc43099-90bd-43b5-9e07-cfdd7c5dc3f7)
 
 Al ejecutar el sistema, se abrirá una ventana gráfica donde interactuarás con todas las funcionalidades. Está dividida en secciones:
 
 ### 🎯 1. Selección de Semestre
 
 Aquí decides si deseas generar horarios para **semestres pares** (2, 4, 6, 8, 10) o **impares** (1, 3, 5, 7, 9). Esto ayuda a filtrar los cursos desde el inicio.
+
+![image](https://github.com/user-attachments/assets/6d54bcf2-a1f0-4087-b9fc-423ac2f31a00)
+
 
 ---
 
@@ -122,6 +126,8 @@ Esta sección te permite configurar cómo se comportará el algoritmo genético.
 - **Torneo k**: Tamaño del grupo que compite en la selección. Recomendado entre 3-5.
 - **Aptitud meta**: Si se alcanza este valor, el algoritmo se detiene antes de completar todas las generaciones.
 
+![image](https://github.com/user-attachments/assets/f544d8c4-642d-49fc-80b7-fdd0ae84d4a8)
+
 ---
 
 ### 🛠 3. Botones principales
@@ -132,6 +138,8 @@ Esta sección te permite configurar cómo se comportará el algoritmo genético.
 - **Exportar a HTML / PDF / CSV**: Guarda el resultado con formato.
 - **Cursos faltantes**: Muestra qué cursos no pudieron ubicarse.
 - **Ver evolución**: Grafica cómo mejora la calidad del horario a lo largo de las generaciones.
+
+![image](https://github.com/user-attachments/assets/70b81cbe-e229-49e4-b65f-22ef5c8e935f)
 
 ---
 
@@ -147,6 +155,8 @@ Se muestra como una **tabla de doble entrada**:
 
 Los colores de fondo ayudan a distinguir entre carreras distintas.
 
+![image](https://github.com/user-attachments/assets/4a169f0e-b52c-4329-952c-271d8ee959c7)
+
 ---
 
 ### 📊 Reporte visual (parte inferior)
@@ -161,6 +171,8 @@ Aquí podrás ver:
 - Iteración donde se alcanzó la mejor solución.
 - Tiempo de ejecución total.
 - Memoria RAM utilizada durante el proceso.
+
+![image](https://github.com/user-attachments/assets/45aa11e0-c821-4a9b-9f1e-843c5e417a49)
 
 ---
 
@@ -197,6 +209,8 @@ Aquí podrás ver:
 - Se abre en una nueva ventana
 - Muestra cómo mejora la aptitud con cada generación
 - Permite detectar si hubo estancamiento o mejora continua
+
+![image](https://github.com/user-attachments/assets/7d54a441-013e-43b5-b766-1cd9adf6d709)
 
 ---
 
