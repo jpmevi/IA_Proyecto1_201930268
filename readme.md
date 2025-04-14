@@ -123,7 +123,7 @@ Clase `GeneradorPoblacion`: genera individuos completamente válidos desde cero 
 Instalación:
 
 ```bash
-pip install matplotlib reportlab psutil
+pip install -r requirements.txt
 ```
 
 ## 5. Ejecución del Proyecto
