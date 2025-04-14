@@ -37,8 +37,6 @@ Este software fue diseñado pensando en usuarios que, aunque no necesariamente t
 pip install matplotlib reportlab psutil
 ```
 
-> 💡 Nota: `tkinter` ya viene incluido en Python.
-
 ---
 
 ## 4. Archivos necesarios
@@ -86,8 +84,6 @@ Define qué docente puede impartir qué curso.
 | ------------ | ---------- |
 | 101          | D001       |
 
-> ⚠ Si un curso no tiene relación con un docente en este archivo, no podrá ser asignado.
-
 ---
 
 ## 5. Cómo ejecutar el sistema
@@ -103,8 +99,6 @@ python main.py
 ```bash
 python3 main.py
 ```
-
-> 📌 Asegúrate de estar ubicado en la carpeta del proyecto antes de ejecutar el comando.
 
 ---
 
@@ -127,8 +121,6 @@ Esta sección te permite configurar cómo se comportará el algoritmo genético.
 - **Probabilidad de mutación**: De 0.0 a 1.0. Controla cuántas asignaciones cambian aleatoriamente.
 - **Torneo k**: Tamaño del grupo que compite en la selección. Recomendado entre 3-5.
 - **Aptitud meta**: Si se alcanza este valor, el algoritmo se detiene antes de completar todas las generaciones.
-
-> 💬 Puedes probar distintas combinaciones hasta obtener resultados satisfactorios.
 
 ---
 
@@ -169,8 +161,6 @@ Aquí podrás ver:
 - Iteración donde se alcanzó la mejor solución.
 - Tiempo de ejecución total.
 - Memoria RAM utilizada durante el proceso.
-
-> 🧠 Estas métricas te ayudan a juzgar qué tan buena fue la solución obtenida.
 
 ---
 
