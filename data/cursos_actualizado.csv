@@ -1,0 +1,205 @@
+codigo,nombre,carrera,semestre,tipo,seccion,seccion
+CUR001,Matemática Básica,Ingeniería en Sistemas,1,obligatorio,A,A
+CUR002,Comunicación y Lenguaje,Ingeniería en Sistemas,1,obligatorio,A,A
+CUR003,Introducción a la Ingeniería,Ingeniería en Sistemas,1,obligatorio,A,A
+CUR004,Lógica de Programación,Ingeniería en Sistemas,1,obligatorio,A,A
+CUR005,Matemática I,Ingeniería en Sistemas,2,obligatorio,A,A
+CUR006,Estadística I,Ingeniería en Sistemas,2,obligatorio,A,A
+CUR007,Programación I,Ingeniería en Sistemas,2,obligatorio,A,A
+CUR008,Física General,Ingeniería en Sistemas,2,obligatorio,A,A
+CUR009,Matemática II,Ingeniería en Sistemas,3,obligatorio,A,A
+CUR010,Estadística II,Ingeniería en Sistemas,3,obligatorio,A,A
+CUR011,Programación II,Ingeniería en Sistemas,3,obligatorio,A,A
+CUR012,Física Aplicada,Ingeniería en Sistemas,3,obligatorio,A,A
+CUR013,Matemática III,Ingeniería en Sistemas,4,obligatorio,A,A
+CUR014,Programación III,Ingeniería en Sistemas,4,obligatorio,A,A
+CUR015,Contabilidad I,Ingeniería en Sistemas,4,obligatorio,A,A
+CUR016,Física Eléctrica,Ingeniería en Sistemas,4,obligatorio,A,A
+CUR017,Investigación de Operaciones I,Ingeniería en Sistemas,5,obligatorio,A,A
+CUR018,Estructura de Datos I,Ingeniería en Sistemas,5,obligatorio,A,A
+CUR019,Organización Empresarial,Ingeniería en Sistemas,5,obligatorio,A,A
+CUR020,Redes de Computadoras,Ingeniería en Sistemas,5,obligatorio,A,A
+CUR021,Matemática IV,Ingeniería en Sistemas,6,obligatorio,A,A
+CUR022,Estructura de Datos II,Ingeniería en Sistemas,6,obligatorio,A,A
+CUR023,Organización y Métodos,Ingeniería en Sistemas,6,obligatorio,A,A
+CUR024,Teoría de Sistemas,Ingeniería en Sistemas,6,obligatorio,A,A
+CUR025,Investigación de Operaciones II,Ingeniería en Sistemas,7,obligatorio,A,A
+CUR026,Base de Datos I,Ingeniería en Sistemas,7,obligatorio,A,A
+CUR027,Ingeniería Económica,Ingeniería en Sistemas,7,obligatorio,A,A
+CUR028,Fundamentos de Sistemas Operativos,Ingeniería en Sistemas,7,obligatorio,A,A
+CUR029,Simulación,Ingeniería en Sistemas,8,obligatorio,A,A
+CUR030,Base de Datos II,Ingeniería en Sistemas,8,obligatorio,A,A
+CUR031,Costos I,Ingeniería en Sistemas,8,obligatorio,A,A
+CUR032,Lenguajes de Programación,Ingeniería en Sistemas,8,obligatorio,A,A
+CUR033,Administración de Proyectos,Ingeniería en Sistemas,9,obligatorio,A,A
+CUR034,Auditoría Informática,Ingeniería en Sistemas,9,obligatorio,A,A
+CUR035,Sistemas Operativos,Ingeniería en Sistemas,9,obligatorio,A,A
+CUR036,Inteligencia Artificial,Ingeniería en Sistemas,9,optativo,A,A
+CUR037,Ética Profesional,Ingeniería en Sistemas,10,obligatorio,A,A
+CUR038,Administración de Centros de Cómputo,Ingeniería en Sistemas,10,obligatorio,A,A
+CUR039,Seminario de Sistemas,Ingeniería en Sistemas,10,obligatorio,A,A
+CUR040,Tópicos Avanzados en Informática,Ingeniería en Sistemas,10,optativo,A,A
+CIV001,Matemática Básica 1,Ingeniería Civil,1,obligatorio,A,A
+CIV002,Matemática Básica 2,Ingeniería Civil,1,obligatorio,A,A
+CIV003,Técnicas de Estudio e Investigación,Ingeniería Civil,1,obligatorio,A,A
+CIV004,Topografía 1,Ingeniería Civil,2,obligatorio,A,A
+CIV005,Física 1,Ingeniería Civil,2,obligatorio,A,A
+CIV006,Topografía 2,Ingeniería Civil,3,obligatorio,A,A
+CIV007,Química General,Ingeniería Civil,3,obligatorio,A,A
+CIV008,Resistencia de Materiales 1,Ingeniería Civil,4,obligatorio,A,A
+CIV009,Resistencia de Materiales 2,Ingeniería Civil,5,obligatorio,A,A
+CIV010,Materiales de Construcción 1,Ingeniería Civil,4,obligatorio,A,A
+CIV011,Materiales de Construcción 2,Ingeniería Civil,5,obligatorio,A,A
+CIV012,Mecánica de Suelos 1,Ingeniería Civil,5,obligatorio,A,A
+CIV013,Concreto Armado 1,Ingeniería Civil,6,obligatorio,A,A
+CIV014,Hidrología,Ingeniería Civil,6,obligatorio,A,A
+CIV015,Hidráulica,Ingeniería Civil,7,obligatorio,A,A
+CIV016,Vías Terrestres 1,Ingeniería Civil,7,obligatorio,A,A
+CIV017,Análisis Estructural,Ingeniería Civil,7,obligatorio,A,A
+CIV018,Diseño Estructural 1,Ingeniería Civil,8,obligatorio,A,A
+CIV019,Diseño Estructural 2,Ingeniería Civil,9,obligatorio,A,A
+CIV020,Cimentaciones 1,Ingeniería Civil,8,obligatorio,A,A
+CIV021,Cimentaciones 2,Ingeniería Civil,9,obligatorio,A,A
+CIV022,Prácticas Finales,Ingeniería Civil,10,obligatorio,A,A
+CIV023,Seminario de Investigación,Ingeniería Civil,10,obligatorio,A,A
+CIV024,Gestión de Proyectos,Ingeniería Civil,10,obligatorio,A,A
+CIV025,Ingeniería de Tránsito,Ingeniería Civil,10,obligatorio,A,A
+CIV026,Vías Terrestres 2,Ingeniería Civil,10,obligatorio,A,A
+CIV027,Urbanismo,Ingeniería Civil,10,optativo,A,A
+CIV028,Gestión de Desastres,Ingeniería Civil,10,optativo,A,A
+CIV029,Aguas Subterráneas,Ingeniería Civil,10,optativo,A,A
+CIV030,Obras Hidráulicas,Ingeniería Civil,10,optativo,A,A
+IND001,Matemática Básica 1,Ingeniería Industrial,1,obligatorio,A,A
+IND002,Matemática Básica 2,Ingeniería Industrial,1,obligatorio,A,A
+IND003,Informática,Ingeniería Industrial,1,obligatorio,A,A
+IND004,Química General,Ingeniería Industrial,1,obligatorio,A,A
+IND005,Estadística 1,Ingeniería Industrial,2,obligatorio,A,A
+IND006,Física 1,Ingeniería Industrial,2,obligatorio,A,A
+IND007,Estadística 2,Ingeniería Industrial,3,obligatorio,A,A
+IND008,Física 2,Ingeniería Industrial,3,obligatorio,A,A
+IND009,Procesos de Manufactura,Ingeniería Industrial,4,obligatorio,A,A
+IND010,Ingeniería de Métodos,Ingeniería Industrial,5,obligatorio,A,A
+IND011,Control Estadístico de Calidad,Ingeniería Industrial,6,obligatorio,A,A
+IND012,Investigación de Operaciones 1,Ingeniería Industrial,6,obligatorio,A,A
+IND013,Diseño Industrial,Ingeniería Industrial,7,obligatorio,A,A
+IND014,Ingeniería Económica,Ingeniería Industrial,7,obligatorio,A,A
+IND015,Ingeniería de Costos,Ingeniería Industrial,8,obligatorio,A,A
+IND016,Ingeniería de Plantas,Ingeniería Industrial,8,obligatorio,A,A
+IND017,Gestión de Proyectos,Ingeniería Industrial,9,obligatorio,A,A
+IND018,Prácticas Finales,Ingeniería Industrial,10,obligatorio,A,A
+IND019,Seminario de Investigación,Ingeniería Industrial,10,obligatorio,A,A
+IND020,Preparación y Evaluación de Proyectos,Ingeniería Industrial,10,obligatorio,A,A
+IND021,Gestión Ambiental,Ingeniería Industrial,10,optativo,A,A
+IND022,Diseño de Máquinas,Ingeniería Industrial,10,obligatorio,A,A
+IND023,Ética Profesional,Ingeniería Industrial,9,optativo,A,A
+IND024,Innovación y Emprendimiento,Ingeniería Industrial,9,optativo,A,A
+CUR300,Simulación Estructural,Ingeniería Civil,1,optativo,A,A
+CUR301,Gestión de Proyectos,Ingeniería Civil,1,obligatorio,A,A
+CUR302,Análisis Hidráulico,Ingeniería Civil,2,optativo,A,A
+CUR303,Diseño de Presas,Ingeniería Civil,2,optativo,A,A
+CUR304,Túneles y Subterráneos,Ingeniería Civil,2,obligatorio,A,A
+CUR305,Diseño Geotécnico,Ingeniería Civil,3,optativo,A,A
+CUR306,Gestión de Proyectos,Ingeniería Civil,3,obligatorio,A,A
+CUR307,Diseño de Presas,Ingeniería Civil,3,optativo,A,A
+CUR308,Túneles y Subterráneos,Ingeniería Civil,4,optativo,A,A
+CUR309,Simulación Estructural,Ingeniería Civil,4,obligatorio,A,A
+CUR310,Estructuras Avanzadas,Ingeniería Civil,4,optativo,A,A
+CUR311,Gestión de Proyectos,Ingeniería Civil,5,obligatorio,A,A
+CUR312,Simulación Estructural,Ingeniería Civil,5,optativo,A,A
+CUR313,Gestión de Proyectos,Ingeniería Civil,6,optativo,A,A
+CUR314,Ingeniería Sísmica,Ingeniería Civil,6,obligatorio,A,A
+CUR315,Análisis Hidráulico,Ingeniería Civil,6,optativo,A,A
+CUR316,Gestión de Proyectos,Ingeniería Civil,7,optativo,A,A
+CUR317,Diseño Geotécnico,Ingeniería Civil,7,obligatorio,A,A
+CUR318,Diseño Geotécnico,Ingeniería Civil,8,optativo,A,A
+CUR319,Transporte Urbano,Ingeniería Civil,8,obligatorio,A,A
+CUR320,Puentes y Carreteras,Ingeniería Civil,8,optativo,A,A
+CUR321,Diseño de Presas,Ingeniería Civil,9,obligatorio,A,A
+CUR322,Diseño Geotécnico,Ingeniería Civil,9,optativo,A,A
+CUR323,Gestión de Proyectos,Ingeniería Civil,9,obligatorio,A,A
+CUR324,Análisis de Riesgo,Ingeniería Industrial,1,obligatorio,A,A
+CUR325,Industria 4.0,Ingeniería Industrial,2,optativo,A,A
+CUR326,Logística Internacional,Ingeniería Industrial,2,optativo,A,A
+CUR327,Productividad y Tiempo,Ingeniería Industrial,2,obligatorio,A,A
+CUR328,Productividad y Tiempo,Ingeniería Industrial,3,optativo,A,A
+CUR329,Calidad Total,Ingeniería Industrial,3,optativo,A,A
+CUR330,Industria 4.0,Ingeniería Industrial,3,obligatorio,A,A
+CUR331,Sistemas ERP,Ingeniería Industrial,4,optativo,A,A
+CUR332,Automatización Industrial,Ingeniería Industrial,4,obligatorio,A,A
+CUR333,Gestión de Mantenimiento,Ingeniería Industrial,4,optativo,A,A
+CUR334,Logística Internacional,Ingeniería Industrial,4,obligatorio,A,A
+CUR335,Ingeniería de Costos,Ingeniería Industrial,5,optativo,A,A
+CUR336,Logística Internacional,Ingeniería Industrial,5,obligatorio,A,A
+CUR337,Lean Manufacturing,Ingeniería Industrial,5,optativo,A,A
+CUR338,Automatización Industrial,Ingeniería Industrial,5,obligatorio,A,A
+CUR339,Calidad Total,Ingeniería Industrial,6,optativo,A,A
+CUR340,Automatización Industrial,Ingeniería Industrial,6,obligatorio,A,A
+CUR341,Ingeniería de Costos,Ingeniería Industrial,6,optativo,A,A
+CUR342,Calidad Total,Ingeniería Industrial,7,obligatorio,A,A
+CUR343,Gestión de Mantenimiento,Ingeniería Industrial,7,optativo,A,A
+CUR344,Lean Manufacturing,Ingeniería Industrial,7,optativo,A,A
+CUR345,Logística Internacional,Ingeniería Industrial,8,obligatorio,A,A
+CUR346,Análisis de Riesgo,Ingeniería Industrial,8,optativo,A,A
+CUR347,Gestión de Mantenimiento,Ingeniería Industrial,8,optativo,A,A
+CUR348,Logística Internacional,Ingeniería Industrial,9,obligatorio,A,A
+CUR349,Industria 4.0,Ingeniería Industrial,9,optativo,A,A
+CUR350,Análisis de Malware,Ingeniería en Sistemas,1,optativo,A,A
+CUR351,Realidad Aumentada,Ingeniería en Sistemas,2,obligatorio,A,A
+CUR352,Big Data,Ingeniería en Sistemas,3,optativo,A,A
+CUR353,Criptografía,Ingeniería en Sistemas,4,obligatorio,A,A
+CUR354,Cloud Computing,Ingeniería en Sistemas,5,optativo,A,A
+CUR355,Minería de Datos,Ingeniería en Sistemas,6,obligatorio,A,A
+CUR356,Cloud Computing,Ingeniería en Sistemas,7,optativo,A,A
+CUR357,Diseño de Juegos,Ingeniería en Sistemas,8,obligatorio,A,A
+CUR358,Análisis de Malware,Ingeniería en Sistemas,9,optativo,A,A
+CUR359,Programación Competitiva,Ingeniería en Sistemas,10,optativo,A,A
+CUR101,Termodinámica I,Ingeniería Mecánica,3,obligatorio,A,A
+CUR102,Mecánica Clásica,Ingeniería Mecánica,2,obligatorio,A,A
+CUR103,Materiales de Ingeniería,Ingeniería Mecánica,4,obligatorio,A,A
+CUR104,Resistencia de Materiales,Ingeniería Mecánica,5,obligatorio,A,A
+CUR105,Dinámica,Ingeniería Mecánica,5,obligatorio,A,A
+CUR106,Mecánica de Fluidos,Ingeniería Mecánica,6,obligatorio,A,A
+CUR107,Transferencia de Calor,Ingeniería Mecánica,6,obligatorio,A,A
+CUR108,Máquinas Térmicas,Ingeniería Mecánica,7,obligatorio,A,A
+CUR109,Diseño de Elementos de Máquina,Ingeniería Mecánica,8,obligatorio,A,A
+CUR110,Automatización Industrial,Ingeniería Mecánica,9,obligatorio,A,A
+CUR111,Control de Calidad,Ingeniería Mecánica,9,optativo,A,A
+CUR112,Mecatrónica,Ingeniería Mecánica,10,optativo,A,A
+CUR113,Ingeniería de Mantenimiento,Ingeniería Mecánica,10,optativo,A,A
+CUR114,Robótica Industrial,Ingeniería Mecánica,10,obligatorio,A,A
+CUR115,Ingeniería Acústica,Ingeniería Mecánica,8,optativo,A,A
+CUR116,Análisis de Vibraciones,Ingeniería Mecánica,7,optativo,A,A
+CUR117,Máquinas Eléctricas,Ingeniería Mecánica,6,obligatorio,A,A
+CUR118,Laboratorio de Máquinas,Ingeniería Mecánica,7,obligatorio,A,A
+CUR119,Diseño Asistido por Computadora (CAD),Ingeniería Mecánica,3,obligatorio,A,A
+CUR120,Dibujo Técnico,Ingeniería Mecánica,2,obligatorio,A,A
+CUR121,Procesos de Manufactura,Ingeniería Mecánica,5,obligatorio,A,A
+CUR122,Instrumentación y Medición,Ingeniería Mecánica,4,obligatorio,A,A
+CUR123,Gestión de Proyectos,Ingeniería Mecánica,9,optativo,A,A
+CUR124,Sistemas Hidráulicos y Neumáticos,Ingeniería Mecánica,6,optativo,A,A
+CUR125,Simulación de Sistemas Mecánicos,Ingeniería Mecánica,10,optativo,A,A
+CUR126,Control Automático,Ingeniería Mecánica,8,obligatorio,A,A
+CUR127,Taller de Proyectos,Ingeniería Mecánica,10,obligatorio,A,A
+CUR128,Introducción a la Ingeniería Mecánica,Ingeniería Mecánica,1,obligatorio,A,A
+CUR129,Computación Aplicada,Ingeniería Mecánica,1,obligatorio,A,A
+CUR130,Química General,Ingeniería Mecánica,1,obligatorio,A,A
+CUR131,Ética Profesional,Ingeniería Mecánica,1,obligatorio,A,A
+CUR132,Matemática Aplicada,Ingeniería Mecánica,4,obligatorio,A,A
+CUR133,Física Aplicada,Ingeniería Mecánica,3,obligatorio,A,A
+CUR134,Sistemas Mecánicos,Ingeniería Mecánica,7,obligatorio,A,A
+CUR135,Prácticas de Ingeniería Mecánica,Ingeniería Mecánica,10,obligatorio,A,A
+CUR136,Normas y Reglamentos Técnicos,Ingeniería Mecánica,6,optativo,A,A
+CUR137,Energías Renovables,Ingeniería Mecánica,9,obligatorio,A,A
+CUR138,Motores de Combustión Interna,Ingeniería Mecánica,8,optativo,A,A
+CUR139,Tribología,Ingeniería Mecánica,10,optativo,A,A
+CUR140,Calidad Total,Ingeniería Mecánica,9,optativo,A,A
+CUR001_MEC,Matemática Básica,Ingeniería Mecánica,1,obligatorio,A,A
+CUR021_MEC,Matemática IV,Ingeniería Mecánica,6,obligatorio,A,A
+CUR017_MEC,Investigación de Operaciones I,Ingeniería Mecánica,5,obligatorio,A,A
+CUR002_MEC,Comunicación y Lenguaje,Ingeniería Mecánica,1,obligatorio,A,A
+CUR010_MEC,Estadística II,Ingeniería Mecánica,3,obligatorio,A,A
+CUR007_MEC,Programación I,Ingeniería Mecánica,2,obligatorio,A,A
+CUR013_MEC,Matemática III,Ingeniería Mecánica,4,obligatorio,A,A
+CUR005_MEC,Matemática I,Ingeniería Mecánica,2,obligatorio,A,A
+CUR025_MEC,Investigación de Operaciones II,Ingeniería Mecánica,7,obligatorio,A,A
+CUR020_MEC,Redes de Computadoras,Ingeniería Mecánica,5,obligatorio,A,A
